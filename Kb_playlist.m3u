@@ -17,6 +17,9 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1, group-title="KB TV", KB: Duranta BD
 http://172.16.29.2:8080/hls/duronto.m3u8
 
+#EXTINF:-1, group-title="KB TV", KB: NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
 #EXTINF:-1, group-title="KB TV",KB: RTV music 
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
