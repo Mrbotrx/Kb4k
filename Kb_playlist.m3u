@@ -49,7 +49,7 @@ http://119.156.26.155:8000/play/a07r/index.m3u8
 #EXTINF:-1, group-title="KB TV",  KB: Dangel2 
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1,group-title="India Bangla" group-title="KB TV",  KB: Zee Bangla Cinema Hd
+#EXTINF:-1,group-title="KB TV",  KB: Zee Bangla Cinema Hd
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1, group-title="KB TV",  KB: Songit Bangla
