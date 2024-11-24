@@ -29,6 +29,8 @@ https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1, group-title="KB TV",KB: RTV music 
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
+#EXTINF:-1, group-title="KB TV",KB: Deshi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
 #EXTINF:-1, group-title="KB TV",KB: YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
