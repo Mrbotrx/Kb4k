@@ -1,11 +1,4 @@
 #EXTM3U
-# bongo playlist st
-#EXTINF:-1 group-title="BONGO TV BY KB",  KB:bongo_movies 
-https://live.bongobd.com/hls/8MnDUl4RGryvX8NUDiF4Pg/1732471566/bongo_movies_88a3.m3u8
-#EXTINF:-1 group-title="BONGO TV BY KB",  KB:bongo_drama
-https://live.bongobd.com/hls/uXD3Z7_k4L3vtPb77V9pyQ/1732471861/bongo_drama.m3u8
-# bongo playlist END
-
 #EXTINF:-1 group-title="KB TV",KB:My tv
 https://mytvbangla.com/0.m3u8
 
