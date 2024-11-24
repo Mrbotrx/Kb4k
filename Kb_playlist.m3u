@@ -86,6 +86,9 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1,group-title="KB TV",  KB: Zee Bangla Cinema Hd
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
+#EXTINF:-1,group-title="KB TV",  KB:nursery-rhymes-and-baby-songs
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/cb381eee-bcfb-409c-aaba-6988b0909e67/2.m3u8
+
 #EXTINF:-1, group-title="KB TV",  KB: Songit Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
