@@ -2,6 +2,9 @@
 #EXTINF:-1, group-title="KB TV", KB:My tv
 https://mytvbangla.com/0.m3u8
 
+#EXTINF:-1, group-title="KB TV", KB: Channel I
+https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+
 #EXTINF:-1, group-title="KB TV", KB: Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8?nimblesessionid=11916714
 
