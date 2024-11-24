@@ -38,6 +38,9 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.
 #EXTINF:-1, group-title="KB TV",KB: YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
+#EXTINF:-1, group-title="KB TV",KB: Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/1d7eb08f-abb6-4f42-99a7-09ec6dae0b6e/5.m3u8
+
 #EXTINF:-1, group-title="KB TV", KB: enter10bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
