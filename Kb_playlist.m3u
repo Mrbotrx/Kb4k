@@ -1,98 +1,105 @@
 #EXTM3U
-#EXTINF:-1, group-title="KB TV",KB:My tv
+# bongo playlist st
+#EXTINF:-1 group-title="BONGO TV BY KB",  KB:bongo_movies 
+https://live.bongobd.com/hls/8MnDUl4RGryvX8NUDiF4Pg/1732471566/bongo_movies_88a3.m3u8
+#EXTINF:-1 group-title="BONGO TV BY KB",  KB:bongo_drama
+https://live.bongobd.com/hls/uXD3Z7_k4L3vtPb77V9pyQ/1732471861/bongo_drama.m3u8
+# bongo playlist END
+
+#EXTINF:-1 group-title="KB TV",KB:My tv
 https://mytvbangla.com/0.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Channel I
+#EXTINF:-1 group-title="KB TV",KB: Channel I
 https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Channel S
+#EXTINF:-1 group-title="KB TV",KB: Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8?nimblesessionid=11916714
 
 #EXTINF:-1 group-title="KB TV",KB: Rongeentv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Zee Bangla 
+#EXTINF:-1 group-title="KB TV",KB: Zee Bangla 
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: jongul book
+#EXTINF:-1 group-title="KB TV",KB: jongul book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Sun Bangla 4k
+#EXTINF:-1 group-title="KB TV",KB: Sun Bangla 4k
 https://uspro.click/sunbangla/index.m3u8?token=8e2f4c73bba30a1de37095672493642afdf324c7-4b7046a425f9e1f2bc75e890847a1f03-1732356713-1732345913&amp
 
-#EXTINF:-1, group-title="KB TV",KB: HBO
+#EXTINF:-1 group-title="KB TV",KB: HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB:7x music 
+#EXTINF:-1 group-title="KB TV",KB:7x music 
 https://stream.e2is.in/hls/7xMusic.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Duranta BD
+#EXTINF:-1 group-title="KB TV",KB: Duranta BD
 http://172.16.29.2:8080/hls/duronto.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: NTV
+#EXTINF:-1 group-title="KB TV",KB: NTV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: RTV music 
+#EXTINF:-1 group-title="KB TV",KB: RTV music 
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Deshi Channel
+#EXTINF:-1 group-title="KB TV",KB: Deshi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: YRF Music HD
+#EXTINF:-1 group-title="KB TV",KB: YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Saga Music
+#EXTINF:-1 group-title="KB TV",KB: Saga Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/1d7eb08f-abb6-4f42-99a7-09ec6dae0b6e/5.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: enter10bangla
+#EXTINF:-1 group-title="KB TV",KB: enter10bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: DBC
+#EXTINF:-1 group-title="KB TV",KB: DBC
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Dangal2
+#EXTINF:-1 group-title="KB TV",KB: Dangal2
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: 9XM
+#EXTINF:-1 group-title="KB TV",KB: 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Deshtv
+#EXTINF:-1 group-title="KB TV",KB: Deshtv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Bujpuri Songit
+#EXTINF:-1 group-title="KB TV",KB: Bujpuri Songit
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: RDC MOVIE
+#EXTINF:-1 group-title="KB TV",KB: RDC MOVIE
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB:E24
+#EXTINF:-1 group-title="KB TV",KB:E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: jalshamovies
+#EXTINF:-1 group-title="KB TV",KB: jalshamovies
 http://172.16.29.2:8080/hls/jalshami.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Sony max hd
+#EXTINF:-1 group-title="KB TV",KB: Sony max hd
 http://172.16.29.3:8080/hls/sonymaxhd.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB:T Sports
+#EXTINF:-1 group-title="KB TV",KB:T Sports
 https://uspro.click/tsports/index.m3u8?token=0745b120467eb4ab7afa918ff66123986ef5b2e4-21ac9ab1edc7115000fb500a835972fe-1732358470-1732347670&amp
 
-#EXTINF:-1, group-title="KB TV",KB: Sonny Max 2 
+#EXTINF:-1 group-title="KB TV",KB: Sonny Max 2 
 http://119.156.26.155:8000/play/a07r/index.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Dangel2 
+#EXTINF:-1 group-title="KB TV",KB: Dangel2 
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1,group-title="KB TV",KB: Zee Bangla Cinema Hd
+#EXTINF:-1 group-title="KB TV",KB: Zee Bangla Cinema Hd
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
-#EXTINF:-1,group-title="KB TV",KB:nursery-rhymes-and-baby-songs
+#EXTINF:-1 group-title="KB TV",KB:nursery-rhymes-and-baby-songs
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/cb381eee-bcfb-409c-aaba-6988b0909e67/2.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB: Songit Bangla
+#EXTINF:-1  group-title="KB TV",KB: Songit Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
-#EXTINF:-1, group-title="KB TV",KB:9XM
+#EXTINF:-1  group-title="KB TV",KB:9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏",SKY SPORTS
