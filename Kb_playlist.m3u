@@ -17,8 +17,8 @@ https://uspro.click/sunbangla/index.m3u8?token=8e2f4c73bba30a1de37095672493642af
 #EXTINF:-1, group-title="KB TV", KB: HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
-#EXTINF:-1, group-title="KB TV", KB:Pogo
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/pogo_sd_576/pogo_sd_576.m3u8?bitrate=1000000&channel=pogo_sd_576&gp_id
+#EXTINF:-1, group-title="KB TV", KB:7x music 
+https://stream.e2is.in/hls/7xMusic.m3u8
 
 #EXTINF:-1, group-title="KB TV", KB: Duranta BD
 http://172.16.29.2:8080/hls/duronto.m3u8
