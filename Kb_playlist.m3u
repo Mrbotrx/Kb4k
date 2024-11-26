@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="KB TV",KB:BTV HD
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+#EXTINF:-1 group-title="KB TV",KB:Sun Bangla HDR
+http://tv.cloudcdn.me/live.ts?channelId=90228&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 group-title="KB TV",KB: stear jolsha
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="KB TV",KB:My tv
@@ -32,6 +35,9 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="KB TV",KB:Magic Bangla Tv
 http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1428315036.m3u8
 
+#EXTINF:-1 group-title="KB TV",KB:B4U MOVIE
+http://tv.cloudcdn.me/live.ts?channelId=152&uid=13433&deviceMac=00:1A:79:00:97:A1
+
 #EXTINF:-1 group-title="KB TV",KB: HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 
@@ -42,7 +48,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://stream.e2is.in/hls/7xMusic.m3u8
 
 #EXTINF:-1 group-title="KB TV",KB: Duranta BD
-http://172.16.29.2:8080/hls/duronto.m3u8
+http:EA172.16.29.2:8080/hls/duronto.m3u8
 
 #EXTINF:-1 group-title="KB TV",KB: Pogo
 http://172.16.29.3:8090/hls/pogo.m3u8
@@ -52,6 +58,9 @@ http://172.16.29.2:8090/hls/mastii.m3u8
 
 #EXTINF:-1 group-title="KB TV",KB: Deshi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
+
+#EXTINF:-1 group-title="KB TV",KB:Star Gold
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 group-title="KB TV",KB: YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
