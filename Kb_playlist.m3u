@@ -101,8 +101,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.
 
 #EXTINF:-1  group-title="KB TV",KB:9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1  group-title="KB TV",KB: GB(GAAN BANGLA)
-http://103.175.242.10:8080/gaanbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="KB TV",KB: movie bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏",SKY SPORTS
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
