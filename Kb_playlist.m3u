@@ -84,7 +84,7 @@ http://172.16.29.2:8080/hls/jalshami.m3u8
 http://172.16.29.3:8080/hls/sonymaxhd.m3u8
 
 #EXTINF:-1 group-title="KB TV",KB:T Sports
-https://uspro.click/tsports/index.m3u8?token=0745b120467eb4ab7afa918ff66123986ef5b2e4-21ac9ab1edc7115000fb500a835972fe-1732358470-1732347670&amp
+http://195.26.87.217/live.ts?channelId=48010&uid=3453&deviceMac=00:1A:79:11:10:28
 
 #EXTINF:-1 group-title="KB TV",KB: Sonny Max 2 
 http://119.156.26.155:8000/play/a07r/index.m3u8
