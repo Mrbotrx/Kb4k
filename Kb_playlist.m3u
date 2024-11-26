@@ -8,6 +8,9 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 group-title="KB TV",KB:Pogo HD 
 http://tv.cloudcdn.me/live.ts?channelId=256&uid=14481&deviceMac=00:1A:79:C3:81:30
 
+#EXTINF:-1 group-title="KB TV",KB:Sonny 8 Bangla
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
+
 #EXTINF:-1 group-title="KB TV",KB: Channel I
 https://app.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 
@@ -31,6 +34,9 @@ http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1428315036.m3u8
 
 #EXTINF:-1 group-title="KB TV",KB: HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
+#EXTINF:-1 group-title="KB TV",KB: Bojpuri cinama
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="KB TV",KB:7x music 
 https://stream.e2is.in/hls/7xMusic.m3u8
