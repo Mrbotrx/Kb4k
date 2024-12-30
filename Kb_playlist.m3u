@@ -1,6 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1, KB:BPL
+https://c1s4.vfruitfairy.com/crc4/index.m3u8
 #EXTINF:-1 group-title="KB TV",KB:BTV HD
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
+
 
 #EXTINF:-1 group-title="KB TV",KB:Sun Bangla HDR
 http://tv.cloudcdn.me/live.ts?channelId=90228&uid=13433&deviceMac=00:1A:79:00:97:A1
